@@ -23,7 +23,7 @@ color:
     - '#cbffee'
     - '#c30054'
   brandStrength: 0
-  lightness: 0.9375
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.731064434396103
 purpose: []
