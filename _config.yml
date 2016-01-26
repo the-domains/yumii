@@ -1,0 +1,28 @@
+name: YUMII
+favicon: null
+layout_spectrum: 0.8791405935771763
+typography_spectrum: 0.4669066141359508
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.976184427505359
+  lightness: 0.8861530004069209
+  saturation: 0.6885954928584397
+  rhythmicContrast: 0.731064434396103
+purpose: []
