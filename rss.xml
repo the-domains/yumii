@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YUMII PHOTOGRAPHY]]></title>
+        <description><![CDATA[YUMII PHOTOGRAPHY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 17:23:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A day at the beach (Scheveningen, South-Holland, The Netherlands)]]></title>
+            <description><![CDATA[<h1>A day at the beach (Scheveningen, South-Holland, The Netherlands)</h1>]]></description>
+            <link>undefineda-day-at-the-beach-scheveningen-south-holland-the-netherl/index.html</link>
+            <guid isPermaLink="false">07e284bb-6e9c-49de-ae56-870c6da75f57</guid>
+            <pubDate>Wed, 27 Jan 2016 17:22:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
