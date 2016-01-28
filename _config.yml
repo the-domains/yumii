@@ -1,20 +1,8 @@
-title: YUMII PHOTOGRAPHY
-cta:
-  domain: null
-  version: null
-  bucket: null
-layout_spectrum: 1
-favicon: null
 name: YUMII
-purpose: []
-analytics:
-  facebook: null
-  google: UA-72912346-1
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6787234
+title: YUMII PHOTOGRAPHY
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72912346-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  saturation: 0.5
   brandColors:
-    - '#DFE1E8'
-    - '#87A4D7'
-    - '#B5866F'
-    - '#4C4153'
-    - '#04000B'
+    - '#07060b'
+    - '#c5bfbf'
+    - '#564b47'
+    - '#3476ca'
+    - '#f1f1f3'
+  brandStrength: 1
   lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.731064434396103
-typography_spectrum: 0.6787234
+purpose: []
