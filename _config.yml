@@ -2,7 +2,7 @@ name: YUMII
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.92108
-title: YUMII PHOTOGRAPHY
+title: YUMII
 collections:
   - index:
       navigable: true
