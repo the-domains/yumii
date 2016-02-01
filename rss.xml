@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[YUMII PHOTOGRAPHY]]></title>
         <description><![CDATA[YUMII PHOTOGRAPHY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://yumii.space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:23:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 14:19:31 GMT</lastBuildDate>
+        <atom:link href="http://yumii.space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Suzannah | Fine art portraiture on film]]></title>
+            <description><![CDATA[<article><h1>Suzannah | Fine art portraiture on film</h1><p>An all-film portrait photography session from last December with gorgeous Suzannah at Oudehaven, Rotterdam. Love how emotional the shoot went despite the freezing weather. We started some black and white test shots in Restaurant Mooii, then went outside of Het Witte Huis and the cube house for more colored portraits.</p><img src="http://static1.squarespace.com/static/53eb4da9e4b0ef9279a1ba95/5682b3ed2c3485060c8bffb8/56ae39ed1a5203c2531b8302/1454333110726/?format=1000w"></article>]]></description>
+            <link>http://www.chymomore.com/blog/fine-art-film-wedding-photography-netherlands</link>
+            <guid isPermaLink="false">e3bef4d1-3f6b-4926-9052-22aba5e3a0c4</guid>
+            <pubDate>Mon, 01 Feb 2016 14:17:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A day at the beach (Scheveningen, South-Holland, The Netherlands)]]></title>
-            <description><![CDATA[<h1>A day at the beach (Scheveningen, South-Holland, The Netherlands)</h1>]]></description>
-            <link>undefineda-day-at-the-beach-scheveningen-south-holland-the-netherl/index.html</link>
+            <description><![CDATA[<article><h1>A day at the beach (Scheveningen, South-Holland, The Netherlands)</h1><p>A last minute decision to cycle to the beach and enjoy the roaring sea, the sudden cold gusts of wind and the beautiful view. </p></article>]]></description>
+            <link>http://yumii.space/a-day-at-the-beach-scheveningen-south-holland-the-netherl/index.html</link>
             <guid isPermaLink="false">07e284bb-6e9c-49de-ae56-870c6da75f57</guid>
             <pubDate>Wed, 27 Jan 2016 17:22:08 GMT</pubDate>
         </item>
