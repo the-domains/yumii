@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[YUMII PHOTOGRAPHY]]></title>
-        <description><![CDATA[YUMII PHOTOGRAPHY]]></description>
+        <title><![CDATA[YUMII]]></title>
+        <description><![CDATA[YUMII]]></description>
         <link>http://yumii.space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 14:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 13:13:01 GMT</lastBuildDate>
         <atom:link href="http://yumii.space/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Lucas Hamming @ Paard Van Troje]]></title>
+            <description><![CDATA[<article><h1>Lucas Hamming @ Paard Van Troje</h1><p>With special acts from Bungalow and Max Meser</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f0936cfd31851c0bdf553f1ce9e522c2cf989c9.jpg"></article>]]></description>
+            <link>http://yumii.space/lucas-hamming-paard-van-troje/index.html</link>
+            <guid isPermaLink="false">48be57d4-f5d8-4a20-a4dd-f39a7555b9ea</guid>
+            <pubDate>Sat, 19 Mar 2016 13:12:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Suzannah | Fine art portraiture on film]]></title>
-            <description><![CDATA[<article><h1>Suzannah | Fine art portraiture on film</h1><p>An all-film portrait photography session from last December with gorgeous Suzannah at Oudehaven, Rotterdam. Love how emotional the shoot went despite the freezing weather. We started some black and white test shots in Restaurant Mooii, then went outside of Het Witte Huis and the cube house for more colored portraits.</p><img src="http://static1.squarespace.com/static/53eb4da9e4b0ef9279a1ba95/5682b3ed2c3485060c8bffb8/56ae39ed1a5203c2531b8302/1454333110726/?format=1000w"></article>]]></description>
+            <description><![CDATA[<article><h1>Suzannah | Fine art portraiture on film</h1><p>An all-film portrait photography session from last December with gorgeous Suzannah at Oudehaven, Rotterdam. Love how emotional the shoot went despite the freezing weather. We started some black and white test shots in Restaurant Mooii, then went outside of Het Witte Huis and the cube house for more colored portraits.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bafa99fa3828c31891e57851a9a2d2b5f160d55c.jpg"></article>]]></description>
             <link>http://www.chymomore.com/blog/fine-art-film-wedding-photography-netherlands</link>
             <guid isPermaLink="false">e3bef4d1-3f6b-4926-9052-22aba5e3a0c4</guid>
             <pubDate>Mon, 01 Feb 2016 14:17:24 GMT</pubDate>
