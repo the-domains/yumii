@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Yesterday I was snapchatting and interviewing for 3voor12 Den Haag
-datePublished: '2016-04-17T20:48:06.522Z'
-dateModified: '2016-04-17T20:47:23.054Z'
+datePublished: '2016-04-17T20:49:42.550Z'
+dateModified: '2016-04-17T20:49:33.794Z'
 title: Record Store Day 2016 @ Velvets Music Delft
 author: []
 sourcePath: _posts/2016-04-17-record-store-day-2016-velvets-music-delft.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Record Store Day 2016 @ Velvets Music Delft
 
-Yesterday I was snapchatting and interviewing for 3voor12 Den Haag
+Yesterday I was snapchatting and interviewing for 3voor12 Den Haag, besides that I also took some pictures:
 
 **Indian Askin**
 ![Indian Askin](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa203988-3212-4d98-9e16-914cdc88e7cf.jpg)
