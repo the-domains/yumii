@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Yesterday I was snapchatting and interviewing for 3voor12 Den Haag
-datePublished: '2016-04-17T20:47:10.412Z'
-dateModified: '2016-04-17T20:46:19.775Z'
+datePublished: '2016-04-17T20:48:06.522Z'
+dateModified: '2016-04-17T20:47:23.054Z'
 title: Record Store Day 2016 @ Velvets Music Delft
 author: []
 sourcePath: _posts/2016-04-17-record-store-day-2016-velvets-music-delft.md
