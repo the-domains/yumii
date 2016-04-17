@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Indian Askin
-datePublished: '2016-04-17T20:39:29.620Z'
-dateModified: '2016-04-17T20:38:04.667Z'
+description: Yesterday I was snapchatting and interviewing for 3voor12 Den Haag
+datePublished: '2016-04-17T20:47:10.412Z'
+dateModified: '2016-04-17T20:46:19.775Z'
 title: Record Store Day 2016 @ Velvets Music Delft
 author: []
 sourcePath: _posts/2016-04-17-record-store-day-2016-velvets-music-delft.md
