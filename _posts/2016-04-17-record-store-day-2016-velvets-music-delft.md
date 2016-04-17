@@ -5,24 +5,26 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-17T20:33:10.449Z'
-dateModified: '2016-04-17T20:32:45.117Z'
+description: Indian Askin
+datePublished: '2016-04-17T20:39:29.620Z'
+dateModified: '2016-04-17T20:38:04.667Z'
 title: Record Store Day 2016 @ Velvets Music Delft
 author: []
+sourcePath: _posts/2016-04-17-record-store-day-2016-velvets-music-delft.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-record-store-day-2016-velvets-music-delft.md
-published: true
 url: record-store-day-2016-velvets-music-delft/index.html
 _type: Article
 
 ---
 # Record Store Day 2016 @ Velvets Music Delft
+
+Yesterday I was snapchatting and interviewing for 3voor12 Den Haag
 
 **Indian Askin**
 ![Indian Askin](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa203988-3212-4d98-9e16-914cdc88e7cf.jpg)
